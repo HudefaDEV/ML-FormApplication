@@ -33,7 +33,7 @@ which is Social Security Number). An option will appear if the user would like t
 A successful logging will ask for the user created, so the user can be able to display their profile.
 
 
-Notes:
-    The Credentials below are the firebase dummy account used in the project.
-    Mail: formapp.ml@gmail.com
-    Password: Testapplication
+# Notes:
+The Credentials below are the firebase dummy account used in the project.
+- Mail: formapp.ml@gmail.com
+- Password: Testapplication
