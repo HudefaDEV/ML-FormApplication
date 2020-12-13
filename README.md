@@ -1,15 +1,16 @@
-# ML-FormApplication
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!DISCLAIMER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!This project was created by researching, learning and using other developers codes, articles, and applications documentations. This project was NOT developed!
-!from PURE ORIGINAL MIND POWER of the developer. However, some modification, features and troubleshooting(the troubleshooting made me go NUTZ) was done by    !
-!the developer's PURE MIND POWER.                                                                                                                             !
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+# DISCLAIMER!!!
+This project was created by researching, learning and using other developers codes, articles, and applications documentation. This project was NOT developed
+from PURE ORIGINAL MIND POWER of the developer. However, some modification, features and troubleshooting (the troubleshooting made me go NUTZ) was done by    
+the developer's PURE MIND POWER.                                                                                                                             
+
 
 # Programing Language
 - Python
 
 # IDE (Integrated development environment)
--PyCharm
+- PyCharm
 
 # Authentication & Database
 - Firebase
