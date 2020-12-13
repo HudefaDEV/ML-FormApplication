@@ -1,9 +1,7 @@
 
 
 # DISCLAIMER!!!
-This project was created by researching, learning and using other developers codes, articles, and applications documentation. This project was NOT developed
-from PURE ORIGINAL MIND POWER of the developer. However, some modification, features and troubleshooting (the troubleshooting made me go NUTZ) was done by    
-the developer's PURE MIND POWER.                                                                                                                             
+This project was created by researching, learning and using other developers codes, articles, and applications documentation. This project was NOT developed from PURE ORIGINAL MIND POWER of the developer. However, some modification, features and troubleshooting (the troubleshooting made me go NUTZ) was done by the developer's PURE MIND POWER.                                                                                                                             
 
 
 # Programing Language
