@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LoginWindow</class>
+ <widget class="QMainWindow" name="LoginWindow">
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>350</width>
+    <height>450</height>
+   </rect>
+  </property>
+  <property name="mouseTracking">
+   <bool>false</bool>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(102, 204, 204);
+background-color: qlineargradient(spread:pad, x1:0, y1:0.534, x2:0.994318, y2:0.704545, stop:0 rgba(44, 238, 141, 255), stop:0.568182 rgba(102, 204, 204, 255));</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>30</y>
+      <width>211</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:rgb(255, 255, 255); font-size:20pt;
+background-color: rgba(255, 255, 250, 0);
+font: 35pt &quot;Agency FB&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Sign-Up</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>150</y>
+      <width>91</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:rgb(255, 255, 255); font-size:20pt;
+background-color: rgba(255, 255, 255, 0);
+font: 20pt &quot;Agency FB&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Email</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="email">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>160</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);
+border-right-color: rgb(255, 0, 0);
+border-color: rgb(255, 0, 0);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="password">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>260</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>250</y>
+      <width>171</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:rgb(255, 255, 255); font-size:20pt;
+background-color: rgba(255, 255, 255, 0);
+font: 20pt &quot;Agency FB&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Password</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Naccount">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>350</y>
+      <width>161</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:rgb(255, 255, 255); font-size:20pt;
+background-color: rgba(255, 255, 250, 0);
+font: 15pt &quot;Agency FB&quot;;
+font: italic
+</string>
+    </property>
+    <property name="text">
+     <string>I am ready</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
